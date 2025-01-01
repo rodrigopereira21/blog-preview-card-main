@@ -45,7 +45,7 @@ body {
     color: var(--dark-gray);
 }
 .blog-category {
-    display: inline-block;
+    display: inline-bloc;
     font-size: 14px;
     background: var(--yellow);
     padding: 0.3rem 0.8rem;
