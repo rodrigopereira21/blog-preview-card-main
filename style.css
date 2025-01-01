@@ -45,6 +45,7 @@ body {
     color: var(--dark-gray);
 }
 .blog-category {
+    
     display: inline-block;
     font-size: 14px;
     background: var(--yellow);
@@ -104,9 +105,10 @@ body {
     border: 1px solid var(--dark-gray);
 }
 
-.blog-container > * + * {
+.blog-container > * + *{
     margin-top: 1rem;
 }
+
 
 .author-image {
     width: 2rem;
@@ -114,7 +116,8 @@ body {
 
 .blog-image {
     border-radius: .6rem;
-    margin-bottom: 1rem;
+    padding-bottom: .3rem;
+    
 }
 
 .attribution { font-size: 11px; text-align: center; }
