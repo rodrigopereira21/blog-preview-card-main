@@ -114,6 +114,7 @@ body {
 
 .blog-image {
     border-radius: .6rem;
+    margin-bottom: 1rem;
 }
 
 .attribution { font-size: 11px; text-align: center; }
